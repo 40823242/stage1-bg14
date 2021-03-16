@@ -119,33 +119,34 @@
    &lt;h3&gt;避震器外殼&lt;/h3&gt;
   &lt;p&gt;&lt;img alt="" height="284" src="./../images/避震器外殼.png" width="525"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="123.20210316202320.1"> &lt;section&gt;
+<t tx="123.20210316202320.1">   &lt;section&gt;
    &lt;h3&gt;上下平台&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/上下平台.png" width="525"/&gt;&lt;/p&gt;
- &lt;/section&gt;</t>
-<t tx="123.20210316203141.1"> &lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316203141.1">   &lt;section&gt;
    &lt;h3&gt;中間支架&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/中間支架.png" width="525"/&gt;&lt;/p&gt;
- &lt;/section&gt;</t>
-<t tx="123.20210316203311.1"> &lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316203311.1">   &lt;section&gt;
    &lt;h3&gt;中間支架有螺紋&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/中間支架有螺紋.png" width="525"/&gt;&lt;/p&gt;
- &lt;/section&gt;</t>
-<t tx="123.20210316203540.1"> &lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316203540.1">   &lt;section&gt;
    &lt;h3&gt;支架&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/支架.png" width="525"/&gt;&lt;/p&gt;
- &lt;/section&gt;</t>
-<t tx="123.20210316203607.1"> &lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316203607.1">   &lt;section&gt;
    &lt;h3&gt;交叉桿&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/交叉桿.png" width="525"/&gt;&lt;/p&gt;
- &lt;/section&gt;</t>
-<t tx="123.20210316203637.1"> &lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316203637.1">   &lt;section&gt;
    &lt;h3&gt;墊片&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/墊片.png" width="525"/&gt;&lt;/p&gt;
- &lt;/section&gt;</t>
-<t tx="123.20210316203724.1"> &lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316203724.1">   &lt;section&gt;
    &lt;h3&gt;螺旋桿&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/螺旋桿.png" width="525"/&gt;&lt;/p&gt;
+     &lt;/section&gt;
  &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
@@ -323,10 +324,11 @@ vertical: body pane on the botton</t>
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/固定軸.png" width="525"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
+   &lt;section&gt;
    &lt;h2&gt;初稿零件圖&lt;/h2&gt;
    &lt;h3&gt;組合圖&lt;/h3&gt;
-    &lt;p&gt;&lt;img alt="" height="320" src="./../images/立等.png" width="600"/&gt;&lt;/p&gt;
- &lt;/section&gt;
+   &lt;p&gt;&lt;img alt="" height="320" src="./../images/立等.png" width="600"/&gt;&lt;/p&gt;
+    &lt;/section&gt;
 </t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
    &lt;h2&gt;SOLIDWORKS 2017模擬&lt;/h2&gt;
