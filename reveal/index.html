@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>reveal.js – The HTML Presentation Framework</title>
+    <title>stage1-bg14</title>
 
     <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
     <meta name="author" content="Hakim El Hattab">
@@ -25,406 +25,155 @@
     <!-- Any section element inside of this container is displayed as a slide -->
     <div class="slides">
         <section>
-            <a href="https://revealjs.com">
-                <img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
-            </a>
-            <h3>The HTML Presentation Framework</h3>
-            <p>
-                <small>Created by <a href="http://hakim.se">Hakim El Hattab</a> and <a href="https://github.com/hakimel/reveal.js/graphs/contributors">contributors</a></small>
-            </p>
+            <h1>協同產品設計實習 報告</h1>
+            <h2>stage1-bg14</h2>
+        <p>
+        <small>成員 <a href="https://github.com/40823228/stage1-bg14">40823228</a> 和 <a href="https://github.com/40823242/stage1-bg14">40823242</a></small>
+        </p>
+        </section>
+
+
+        <section>
+            <h2>專題主題-升降平台</h2>
+            <p><img alt="" height="300" src="./../images/彩現2.JPG" width="300"/></p>
+            <h10>動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。</h10>
+        </section>
+        <section>
+           <h1>機構原理</h1>
+           <h2>利用馬達運轉帶動油泵，使油泵透過油及油壓管，驅動油壓頂桿，使得平台可以上下移動</h2>
         </section>
 
         <section>
-            <h2>Hello There</h2>
-            <p>
-                reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-            </p>
-        </section>
-
-        <!-- Example of nested vertical slides -->
-        <section>
-            <section>
-                <h2>Vertical Slides</h2>
-                <p>Slides can be nested inside of each other.</p>
-                <p>Use the <em>Space</em> key to navigate through all slides.</p>
-                <br>
-                <a href="#" class="navigate-down">
-                    <img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
-                </a>
+           <section>
+           <h2>初稿零件圖</h2>
+           <h3>組合圖</h3>
+           <p><img alt="" height="320" src="./../images/立等.png" width="600"/></p>
             </section>
-            <section>
-                <h2>Basement Level 1</h2>
-                <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
-            </section>
-            <section>
-                <h2>Basement Level 2</h2>
-                <p>That's it, time to go back up.</p>
-                <br>
-                <a href="#/2">
-                    <img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow">
-                </a>
-            </section>
-        </section>
-
-        <section>
-            <h2>Slides</h2>
-            <p>
-                Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="https://slides.com" target="_blank">https://slides.com</a>.
-            </p>
-        </section>
-
-        <section data-auto-animate>
-            <h2 data-id="code-title">Pretty Code</h2>
-            <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers>
-                import React, { useState } from 'react';
-
-                function Example() {
-                  const [count, setCount] = useState(0);
-
-                  return (
-                    ...
-                  );
-                }
-            </code></pre>
-            <p>Code syntax highlighting courtesy of <a href="https://highlightjs.org/usage/">highlight.js</a>.</p>
-        </section>
-
-        <section data-auto-animate>
-            <h2 data-id="code-title">With animations</h2>
-            <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24">
-                import React, { useState } from 'react';
-
-                function Example() {
-                  const [count, setCount] = useState(0);
-
-                  return (
-                    &lt;div&gt;
-                      &lt;p&gt;You clicked {count} times&lt;/p&gt;
-                      &lt;button onClick={() =&gt; setCount(count + 1)}&gt;
-                        Click me
-                      &lt;/button&gt;
-                    &lt;/div&gt;
-                  );
-                }
-
-                function SecondExample() {
-                  const [count, setCount] = useState(0);
-
-                  return (
-                    &lt;div&gt;
-                      &lt;p&gt;You clicked {count} times&lt;/p&gt;
-                      &lt;button onClick={() =&gt; setCount(count + 1)}&gt;
-                        Click me
-                      &lt;/button&gt;
-                    &lt;/div&gt;
-                  );
-                }
-            </code></pre>
-        </section>
-
-        <section>
-            <h2>Point of View</h2>
-            <p>
-                Press <strong>ESC</strong> to enter the slide overview.
-            </p>
-            <p>
-                Hold down the <strong>alt</strong> key (<strong>ctrl</strong> in Linux) and click on any element to zoom towards it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Click again to zoom back out.
-            </p>
-            <p>
-                (NOTE: Use ctrl + click in Linux.)
-            </p>
-        </section>
-
-        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
-            <h2>Auto-Animate</h2>
-            <p>Automatically animate matching elements across slides with <a href="https://revealjs.com/auto-animate/">Auto-Animate</a>.</p>
-            <div class="r-hstack justify-center">
-                <div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
-                <div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
-                <div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
-            </div>
-        </section>
-        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
-            <div class="r-hstack justify-center">
-                <div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"></div>
-                <div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"></div>
-                <div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"></div>
-            </div>
-            <h2 style="margin-top: 20px;">Auto-Animate</h2>
-        </section>
-        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
-            <div class="r-stack">
-                <div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"></div>
-                <div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"></div>
-                <div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"></div>
-            </div>
-            <h2 style="margin-top: 20px;">Auto-Animate</h2>
-        </section>
-
-        <section>
-            <h2>Touch Optimized</h2>
-            <p>
-                Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-            </p>
-        </section>
-
-        <section data-markdown>
-            <script type="text/template">
-                ## Markdown support
-
-                Write content using inline or external Markdown.
-                Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-                ```[]
-                <section data-markdown>
-                  ## Markdown support
-
-                  Write content using inline or external Markdown.
-                  Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-                </section>
-                ```
-            </script>
-        </section>
-
-        <section>
-             <section id="fragments">
-                 <h2>Fragments</h2>
-                 <p>Hit the next arrow...</p>
-                 <p class="fragment">... to step through ...</p>
-                 <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
-
-                 <aside class="notes">
-                     This slide has fragments which are also stepped through in the notes window.
-                 </aside>
+           <section>
+           <h3>上下平台</h3>
+            <p><img alt="" height="284" src="./../images/上下平台.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>中間支架</h3>
+            <p><img alt="" height="284" src="./../images/中間支架.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>中間支架有螺紋</h3>
+            <p><img alt="" height="284" src="./../images/中間支架有螺紋.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>支架</h3>
+            <p><img alt="" height="284" src="./../images/支架.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>交叉桿</h3>
+            <p><img alt="" height="284" src="./../images/交叉桿.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>墊片</h3>
+            <p><img alt="" height="284" src="./../images/墊片.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>螺旋桿</h3>
+            <p><img alt="" height="284" src="./../images/螺旋桿.png" width="525"/></p>
              </section>
-              
-             <section>
-                 <h2>Fragment Styles</h2>
-                 <p>There's different types of fragments, like:</p>
-                 <p class="fragment grow">grow</p>
-                 <p class="fragment shrink">shrink</p>
-                 <p class="fragment fade-out">fade-out</p>
-                 <p>
-                     <span style="display: inline-block;" class="fragment fade-right">fade-right, </span>
-                     <span style="display: inline-block;" class="fragment fade-up">up, </span>
-                     <span style="display: inline-block;" class="fragment fade-down">down, </span>
-                     <span style="display: inline-block;" class="fragment fade-left">left</span>
-                 </p>
-                 <p class="fragment fade-in-then-out">fade-in-then-out</p>
-                 <p class="fragment fade-in-then-semi-out">fade-in-then-semi-out</p>
-                 <p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
-             </section>
-        </section>
-
-        <section id="transitions">
-            <h2>Transition Styles</h2>
-            <p>
-                You can select from different transitions, like: <br>
-                <a href="?transition=none#/transitions">None</a> -
-                <a href="?transition=fade#/transitions">Fade</a> -
-                <a href="?transition=slide#/transitions">Slide</a> -
-                <a href="?transition=convex#/transitions">Convex</a> -
-                <a href="?transition=concave#/transitions">Concave</a> -
-                <a href="?transition=zoom#/transitions">Zoom</a>
-            </p>
-        </section>
-
-        <section id="themes">
-            <h2>Themes</h2>
-            <p>
-                reveal.js comes with a few themes built in: <br>
-                <!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;">League</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;">Sky</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;">Beige</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> <br>
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;">Serif</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;">Blood</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
-                <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
-            </p>
-        </section>
+         </section>
         <section>
-            <section data-background="#dddddd">
-                <h2>Slide Backgrounds</h2>
-                <p>
-                    Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color formats are supported.
-                </p>
-                <a href="#" class="navigate-down">
-                    <img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
-                </a>
+           <section>
+           <h2>成品零件圖</h2>
+           <h3>整體擬真圖</h3>
+            <p><img alt="" height="300" src="./../images/彩現1.JPG" width="300"/></p>
             </section>
-            <section data-background="https://static.slid.es/reveal/image-placeholder.png">
-                <h2>Image Backgrounds</h2>
-                <pre><code class="hljs html">&lt;section data-background="image.png"&gt;</code></pre>
-            </section>
-            <section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px">
-                <h2>Tiled Backgrounds</h2>
-                <pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
-            </section>
-            <section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000">
-                <div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
-                    <h2>Video Backgrounds</h2>
-                    <pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
-                </div>
-            </section>
-            <section data-background="http://i.giphy.com/90F8aUepslB84.gif">
-                <h2>... and GIFs!</h2>
-            </section>
-        </section>
-
-        <section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
-            <h2>Background Transitions</h2>
-            <p>
-                Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-            </p>
-            <pre><code class="hljs javascript">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
-        </section>
-
-        <section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
-            <h2>Background Transitions</h2>
-            <p>
-                You can override background transitions per-slide.
-            </p>
-            <pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
-        </section>
-
-        <section data-background-iframe="https://hakim.se" data-background-interactive>
-            <div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-                <h2>Iframe Backgrounds</h2>
-                <p>Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.</p>
-            </div>
-        </section>
-
-        <section>
-            <h2>Marvelous List</h2>
-            <ul>
-                <li>No order here</li>
-                <li>Or here</li>
-                <li>Or here</li>
-                <li>Or here</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Fantastic Ordered List</h2>
-            <ol>
-                <li>One is smaller than...</li>
-                <li>Two is smaller than...</li>
-                <li>Three!</li>
-            </ol>
-        </section>
-
-        <section>
-            <h2>Tabular Tables</h2>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Item</th>
-                        <th>Value</th>
-                        <th>Quantity</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>Apples</td>
-                        <td>$1</td>
-                        <td>7</td>
-                    </tr>
-                    <tr>
-                        <td>Lemonade</td>
-                        <td>$2</td>
-                        <td>18</td>
-                    </tr>
-                    <tr>
-                        <td>Bread</td>
-                        <td>$3</td>
-                        <td>2</td>
-                    </tr>
-                </tbody>
-            </table>
+           <section>
+           <h3>內管</h3>
+            <p><img alt="" height="284" src="./../images/內管.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>角座</h3>
+            <p><img alt="" height="284" src="./../images/角座.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>固定軸</h3>
+           <p><img alt="" height="284" src="./../images/固定軸.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>底座</h3>
+           <p><img alt="" height="284" src="./../images/底座.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>油泵</h3>
+           <p><img alt="" height="284" src="./../images/油汞.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>軌道(外)</h3>
+           <p><img alt="" height="284" src="./../images/軌道(外).png" width="525"/></p>
+           </section>
+           <section>
+           <h3>軌道</h3>
+           <p><img alt="" height="285" src="./../images/軌道.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>馬達</h3>
+           <p><img alt="" height="285" src="./../images/馬達.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>移動底座</h3>
+           <p><img alt="" height="285" src="./../images/移動底座.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>塞子</h3>
+           <p><img alt="" height="284" src="./../images/塞子.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>腳架</h3>
+           <p><img alt="" height="284" src="./../images/腳架.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>滾輪</h3>
+           <p><img alt="" height="285" src="./../images/滾輪.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>踏板</h3>
+           <p><img alt="" height="284" src="./../images/踏板.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>輪子</h3>
+           <p><img alt="" height="284" src="./../images/輪子.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>輪胎皮</h3>
+           <p><img alt="" height="284" src="./../images/輪胎皮.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>輪軸</h3>
+          <p><img alt="" height="283" src="./../images/輪軸.png" width="525"/></p>
+           </section>
+           <section>
+           <h3>避震器外殼</h3>
+          <p><img alt="" height="284" src="./../images/避震器外殼.png" width="525"/></p>
+          </section>
         </section>
         <section>
-            <h2>Clever Quotes</h2>
-            <p>
-                These guys come in two forms, inline: <q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">The nice thing about standards is that there are so many to choose from</q> and block:
-            </p>
-            <blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-                &ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-                reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&rdquo;
-            </blockquote>
-        </section>
+           <h2>SOLIDWORKS 2017模擬</h2>
+            <h5>初稿模擬</h5>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/10wQ4C1NgjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
+         </section>
         <section>
-            <h2>Intergalactic Interconnections</h2>
-            <p>
-                You can link between slides internally,
-                <a href="#/2/3">like this</a>.
-            </p>
+           <h2>SOLIDWORKS 2017模擬</h2>
+            <h5>油壓式升降平台模擬</h5>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Jw_C1n5aQgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>
+         </section>
+         <section>
+            <h2>40823228心得</h2>
+            <h4>這次的協同產品設計的前四周是採取二人分組，因為剛接觸協同產品設計，所以在各項作業上都有一定的陌生，不過隨著討論次數的增加，也越來越上手，這次的分組專題讓我體會到如果用傳統的開會討論，肯定會耗費更多的時間，所以接下來的四人小組、八人小組，如果工作分配得宜的話，一定可以創造更有價值性的產品</h4>
         </section>
-
-        <section>
-            <h2>Speaker View</h2>
-            <p>There's a <a href="https://revealjs.com/speaker-view/">speaker view</a>. It includes a timer, preview of the upcoming slide as well as your speaker notes.</p>
-            <p>Press the <em>S</em> key to try it out.</p>
-
-            <aside class="notes">
-                Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-            </aside>
+         <section>
+            <h2>40823242心得</h2>
+            <h4>學期前四周，是採取兩人小組，兩人分工合作，共同分擔事務、維護網站倉儲等，而之後會有四人小組、八人小組，雖然人多但效率不一定會比兩人小組高，所以先採取兩人小組培養彼此之間默契，接下來的多人小組就能無縫接軌，也可以完成更大的項目。</h4>
         </section>
-        <section>
-            <h2>Export to PDF</h2>
-            <p>Presentations can be <a href="https://revealjs.com/pdf-export/">exported to PDF</a>, here's an example:</p>
-            <iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-        </section>
-
-        <section>
-            <h2>Global State</h2>
-            <p>
-                Set <code>data-state="something"</code> on a slide and <code>"something"</code>
-                will be added as a class to the document element when the slide is open. This lets you
-                apply broader style changes, like switching the page background.
-            </p>
-        </section>
-
-        <section data-state="customevent">
-            <h2>State Events</h2>
-            <p>
-                Additionally custom events can be triggered on a per slide basis by binding to the <code>data-state</code> name.
-            </p>
-            <pre><code class="javascript" data-trim contenteditable style="font-size: 18px;">
-        Reveal.on( 'customevent', function() {
-        console.log( '"customevent" has fired' );
-        } );
-            </code></pre>
-        </section>
-
-        <section>
-            <h2>Take a Moment</h2>
-            <p>
-                Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-            </p>
-        </section>
-
-        <section>
-            <h2>Much more</h2>
-            <ul>
-                <li>Right-to-left support</li>
-                <li><a href="https://revealjs.com/api/">Extensive JavaScript API</a></li>
-                <li><a href="https://revealjs.com/auto-slide/">Auto-progression</a></li>
-                <li><a href="https://revealjs.com/backgrounds/#parallax-background">Parallax backgrounds</a></li>
-                <li><a href="https://revealjs.com/keyboard/">Custom keyboard bindings</a></li>
-            </ul>
-        </section>
-
-        <section style="text-align: left;">
-            <h1>THE END</h1>
-            <p>
-                - <a href="https://slides.com">Try the online editor</a> <br>
-                - <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
-            </p>
+         <section>
+            <h1>報告結束 謝謝大家</h1>
         </section>
     </div>
 </div>
