@@ -298,8 +298,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現2.JPG" width="300"/&gt;&lt;/p&gt;
     &lt;h5&gt;動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。&lt;/h5&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
+<t tx="leo.20200818170636.1">&lt;section&gt;
    &lt;h2&gt;成品零件圖&lt;/h2&gt;
    &lt;h3&gt;整體擬真圖&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現1.JPG" width="300"/&gt;&lt;/p&gt;
@@ -323,8 +322,7 @@ vertical: body pane on the botton</t>
    &lt;h3&gt;固定軸&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/固定軸.png" width="525"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
+<t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;h2&gt;初稿零件圖&lt;/h2&gt;
    &lt;h3&gt;組合圖&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="320" src="./../images/立等.png" width="600"/&gt;&lt;/p&gt;
