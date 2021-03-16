@@ -20,7 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170725.1"><vh>slide 3</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 3</vh>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="123.20210316202320.1"><vh>slide 5-1</vh></v>
 <v t="123.20210316203141.1"><vh>slide 5-2</vh></v>
@@ -29,6 +29,7 @@
 <v t="123.20210316203607.1"><vh>slide 5-5</vh></v>
 <v t="123.20210316203637.1"><vh>slide 5-6</vh></v>
 <v t="123.20210316203724.1"><vh>slide 5-7</vh></v>
+</v>
 </v>
 <v t="leo.20200818170636.1"><vh>slide 4</vh>
 <v t="leo.20200818170909.1"><vh>slide 4-1</vh></v>
@@ -284,7 +285,7 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h1&gt;協同產品設計實習-報告&lt;/h1&gt;
+    &lt;h1&gt;協同產品設計實習 報告&lt;/h1&gt;
     &lt;h2&gt;stage1-bg14&lt;/h2&gt;
 &lt;p&gt;
 &lt;small&gt;成員 &lt;a href="https://github.com/40823228/stage1-bg14"&gt;40823228&lt;/a&gt; 和 &lt;a href="https://github.com/40823242/stage1-bg14"&gt;40823242&lt;/a&gt;&lt;/small&gt;
@@ -296,7 +297,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題主題-升降平台&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現2.JPG" width="300"/&gt;&lt;/p&gt;
-    &lt;h4&gt;動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。&lt;/h4&gt;
+    &lt;h5&gt;動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
