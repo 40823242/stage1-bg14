@@ -63,61 +63,62 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="123.20210316184428.1">&lt;section&gt;
+<t tx="123.20210316184428.1">   &lt;section&gt;
    &lt;h3&gt;底座&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/底座.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316184503.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316184503.1">   &lt;section&gt;
    &lt;h3&gt;油泵&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/油汞.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185348.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185348.1">   &lt;section&gt;
    &lt;h3&gt;軌道(外)&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/軌道(外).png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185400.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185400.1">   &lt;section&gt;
    &lt;h3&gt;軌道&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="285" src="./../images/軌道.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185406.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185406.1">   &lt;section&gt;
    &lt;h3&gt;馬達&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="285" src="./../images/馬達.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185413.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185413.1">   &lt;section&gt;
    &lt;h3&gt;移動底座&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="285" src="./../images/移動底座.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185610.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185610.1">   &lt;section&gt;
    &lt;h3&gt;塞子&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/塞子.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185616.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185616.1">   &lt;section&gt;
    &lt;h3&gt;腳架&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/腳架.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185621.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185621.1">   &lt;section&gt;
    &lt;h3&gt;滾輪&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="285" src="./../images/滾輪.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185630.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185630.1">   &lt;section&gt;
    &lt;h3&gt;踏板&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/踏板.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185903.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185903.1">   &lt;section&gt;
    &lt;h3&gt;輪子&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/輪子.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185916.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185916.1">   &lt;section&gt;
    &lt;h3&gt;輪胎皮&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/輪胎皮.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316185921.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316185921.1">   &lt;section&gt;
    &lt;h3&gt;輪軸&lt;/h3&gt;
   &lt;p&gt;&lt;img alt="" height="283" src="./../images/輪軸.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="123.20210316190054.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="123.20210316190054.1">   &lt;section&gt;
    &lt;h3&gt;避震器外殼&lt;/h3&gt;
   &lt;p&gt;&lt;img alt="" height="284" src="./../images/避震器外殼.png" width="525"/&gt;&lt;/p&gt;
+  &lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="123.20210316202320.1">   &lt;section&gt;
    &lt;h3&gt;上下平台&lt;/h3&gt;
@@ -297,13 +298,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題主題-升降平台&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現2.JPG" width="300"/&gt;&lt;/p&gt;
-    &lt;h5&gt;動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。&lt;/h5&gt;
+    &lt;h7&gt;動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。&lt;/h7&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
+   &lt;section&gt;
    &lt;h2&gt;成品零件圖&lt;/h2&gt;
    &lt;h3&gt;整體擬真圖&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現1.JPG" width="300"/&gt;&lt;/p&gt;
- &lt;/section&gt;
+    &lt;/section&gt;
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
    &lt;h1&gt;機構原理&lt;/h1&gt;
@@ -311,18 +313,18 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
+<t tx="leo.20200818170909.1">   &lt;section&gt;
    &lt;h3&gt;內管&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/內管.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="leo.20200818170953.1">   &lt;section&gt;
    &lt;h3&gt;角座&lt;/h3&gt;
     &lt;p&gt;&lt;img alt="" height="284" src="./../images/角座.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
+   &lt;/section&gt;</t>
+<t tx="leo.20200818171010.1">   &lt;section&gt;
    &lt;h3&gt;固定軸&lt;/h3&gt;
    &lt;p&gt;&lt;img alt="" height="284" src="./../images/固定軸.png" width="525"/&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+   &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;section&gt;
    &lt;h2&gt;初稿零件圖&lt;/h2&gt;
