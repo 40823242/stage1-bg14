@@ -52,8 +52,8 @@
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="123.20210317160038.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 10</vh></v>
 <v t="leo.20200818171312.1"><vh>slide 9</vh></v>
+<v t="leo.20200818171344.1"><vh>slide 10</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 11</vh></v>
 </v>
 </v>
@@ -152,7 +152,7 @@
  &lt;/section&gt;</t>
 <t tx="123.20210317160038.1"> &lt;section&gt;
     &lt;h2&gt;PDF檔案&lt;/h2&gt;
-    &lt;h4&gt;Stage1-bg14 https://drive.google.com/file/d/1Y83VGGkDXYSVAEIbtm2EjOc9-7odPcu2/view?usp=sharing &lt;/h4&gt;
+   &lt;p&gt;&lt;span&gt;&lt;/span&gt;1.PDF檔案:&lt;a href="https://drive.google.com/file/d/1Y83VGGkDXYSVAEIbtm2EjOc9-7odPcu2/view?usp=sharing"&gt;點此下載&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
