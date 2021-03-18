@@ -309,7 +309,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題主題-升降平台&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現2.JPG" width="300"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="250" src="./../images/彩現2.JPG" width="300"/&gt;&lt;/p&gt;
     &lt;h10&gt;動機:在工地裡，經常需要在高處實施作業，但目前看到的作業平台都是組裝式的，不僅延長工作時間，搭建過程，也有極大掉落風險，所以我們設計出"油壓式升降平台"，不僅方便攜帶，也減少風險與搭建平台的作業時間。&lt;/h10&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
