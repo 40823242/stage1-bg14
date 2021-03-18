@@ -52,6 +52,7 @@
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="123.20210317160038.1"><vh>slide 8</vh></v>
+<v t="123.20210318204921.1"><vh>slide 12</vh></v>
 <v t="leo.20200818171312.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 10</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 11</vh></v>
@@ -153,6 +154,12 @@
 <t tx="123.20210317160038.1"> &lt;section&gt;
     &lt;h2&gt;PDF檔案&lt;/h2&gt;
    &lt;p&gt;&lt;span&gt;&lt;/span&gt;1.PDF檔案:&lt;a href="https://drive.google.com/file/d/1Y83VGGkDXYSVAEIbtm2EjOc9-7odPcu2/view?usp=sharing"&gt;點此下載&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="123.20210318204921.1"> &lt;section&gt;
+    &lt;h2&gt;四人小組願景&lt;/h2&gt;
+   &lt;p&gt;&lt;img alt="" height="242" src="./../images/願景.png" width="525"/&gt;&lt;/p&gt;
+   &lt;h10&gt;經過學習前四周兩人小組磨練，我了解到分工與協同，之後的四人小組希望能有更好的規劃，與組員之間能有更優良的溝通，提升整體效率。
+在線學習的有效性、真正的掌握學習、學生互評、混合式學習&lt;/h10&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
@@ -303,7 +310,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;專題主題-升降平台&lt;/h2&gt;
     &lt;p&gt;&lt;img alt="" height="300" src="./../images/彩現2.JPG" width="300"/&gt;&lt;/p&gt;
-    &lt;h10&gt;動機:在工地裡，經常需要在高處實施作業，可是目前在外面看到的作業平台都是用組裝式的，不僅延長工作時間，在搭建過程，也有極大的掉落風險，所以我們小組設計出"油壓式升降平台"，不僅方便攜帶，也大幅減少風險與搭建平台的作業時間。&lt;/h10&gt;
+    &lt;h10&gt;動機:在工地裡，經常需要在高處實施作業，但目前看到的作業平台都是組裝式的，不僅延長工作時間，搭建過程，也有極大掉落風險，所以我們設計出"油壓式升降平台"，不僅方便攜帶，也減少風險與搭建平台的作業時間。&lt;/h10&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
    &lt;section&gt;
