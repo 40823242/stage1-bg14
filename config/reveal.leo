@@ -163,8 +163,7 @@
 在線學習的有效性、真正的掌握學習、學生互評、混合式學習&lt;/h10&gt;
 &lt;/section&gt;</t>
 <t tx="123.20210319135656.1"> &lt;section&gt;
-     &lt;h5&gt;參考資料&lt;/h5&gt;
-     &lt;h6&gt;升降平台&lt;/h6&gt;
+     &lt;h5&gt;資料來源&lt;/h5&gt;
      &lt;h6&gt;&lt;a href="https://www.twp8588.com.tw/product-detail-508862.htm"&gt;https://www.twp8588.com.tw/product-detail-508862.htm&lt;/a&gt;&lt;/h6&gt;
      &lt;h6&gt;&lt;a href="https://www.liftruck.com.tw/zh-tw/product-c58961/%E9%9B%BB%E5%8B%95%E6%B2%B9%E5%A3%93%E5%8D%87%E9%99%8D%E5%B9%B3%E5%8F%B0.html"&gt;https://www.liftruck.com.tw/zh-tw/product-c58961/%E9%9B%BB%E5%8B%95%E6%B2%B9%E5%A3%93%E5%8D%87%E9%99%8D%E5%B9%B3%E5%8F%B0.html&lt;/a&gt;&lt;/h6&gt;
 &lt;/section&gt;
