@@ -55,6 +55,7 @@
 <v t="123.20210318204921.1"><vh>slide 12</vh></v>
 <v t="leo.20200818171312.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 10</vh></v>
+<v t="123.20210319135656.1"><vh>slide 12</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 11</vh></v>
 </v>
 </v>
@@ -161,6 +162,13 @@
    &lt;h10&gt;經過學習前四周兩人小組磨練，我了解到分工與協同，之後的四人小組希望能有更好的規劃，與組員之間能有更優良的溝通，提升整體效率。
 在線學習的有效性、真正的掌握學習、學生互評、混合式學習&lt;/h10&gt;
 &lt;/section&gt;</t>
+<t tx="123.20210319135656.1"> &lt;section&gt;
+     &lt;h5&gt;參考資料&lt;/h5&gt;
+     &lt;h6&gt;升降平台&lt;/h6&gt;
+     &lt;h6&gt;&lt;a href="https://www.twp8588.com.tw/product-detail-508862.htm"&gt;https://www.twp8588.com.tw/product-detail-508862.htm&lt;/a&gt;&lt;/h6&gt;
+     &lt;h6&gt;&lt;a href="https://www.liftruck.com.tw/zh-tw/product-c58961/%E9%9B%BB%E5%8B%95%E6%B2%B9%E5%A3%93%E5%8D%87%E9%99%8D%E5%B9%B3%E5%8F%B0.html"&gt;https://www.liftruck.com.tw/zh-tw/product-c58961/%E9%9B%BB%E5%8B%95%E6%B2%B9%E5%A3%93%E5%8D%87%E9%99%8D%E5%B9%B3%E5%8F%B0.html&lt;/a&gt;&lt;/h6&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120538.1"></t>
